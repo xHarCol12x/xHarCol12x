@@ -78,7 +78,7 @@
       </p>
       <p>Herramienta web serverless (Next.js 16 + Supabase RLS) que utiliza modelos de IA (Groq Llama 3 y Gemini API) para optimizar CVs en formato ATS, analizar brechas de habilidades y realizar simulaciones de entrevistas técnicas.</p>
       <p align="center">
-        <a href="https://github.com/whoysAndre/cvproyectouni"><b>📂 Ver Repositorio »</b></a>
+        <a href="https://github.com/xHarCol12x/cvapp"><b>📂 Ver Repositorio »</b></a>
       </p>
     </td>
   </tr>
